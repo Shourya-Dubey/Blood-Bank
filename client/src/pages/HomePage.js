@@ -10,7 +10,7 @@ const HomePage = () => {
   {error && <span>{alert(error)}</span>}
   {loading ? (<Spinner/>) : (
     <>
-    <h1>Welcome to Home Page!</h1>
+    <h1>Welcome to Blood Bank App</h1>
     </>
   )}
   </Layout>
