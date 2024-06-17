@@ -20,7 +20,7 @@ const HomePage = () => {
             style={{cursor: 'pointer'}}
           >
             <i className="fa-solid fa-plus text-success py-4"></i>
-            Add Inventor
+            Add Inventory
           </h4>
           <Modal/>
         </>
